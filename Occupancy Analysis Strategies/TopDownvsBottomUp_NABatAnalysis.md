@@ -2,6 +2,7 @@
 output:
   html_document: default
   pdf_document: default
+  github_document: default
 ---
 Multi-scale occupancy model vs. random effect parameterization
 ===
